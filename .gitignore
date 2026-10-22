@@ -6,3 +6,5 @@ backend/.agents/
 backend/.claude/
 backend/.cursor/
 backend/.devin/
+backend/src/generated/
+backend/src/generated/
